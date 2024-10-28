@@ -1,0 +1,90 @@
+,restaurant,street,zipCode,city,country,lat,long
+0,Starbucks,Neue Promenade 3,0,Berlin,Germany,52.52317,13.4023
+1,Starbucks,Dircksenstrasse 2,0,Berlin,Germany,52.52042,13.41338
+2,Starbucks,Alexanderplatz 2,0,Berlin,Germany,52.52101,13.41339
+3,Starbucks,Grunerstrasse 20,0,Berlin,Germany,52.52024,13.4147
+4,Starbucks,Friedrichstrasse 96,0,Berlin,Germany,52.51955,13.38849
+5,Starbucks,Friedrichstrasse 110 111,0,Berlin,Germany,52.52491,13.3876
+6,Starbucks,Friedrichstrasse 61,0,Berlin,Germany,52.51098,13.38986
+7,Starbucks,Pariser Platz 4a,0,Berlin,Germany,52.51592,13.37952
+8,Starbucks,Europaplatz 1,0,Berlin,Germany,52.52584,13.36913
+9,Starbucks,Muhlenstrasse 3 100,0,Berlin,Germany,52.56854,13.40412
+10,Starbucks,Schoenhauser Allee 78 80 10439 Berlin,0,Berlin,Germany,52.54944,13.41388
+11,Starbucks,Warschauer Strasse,0,Berlin,Germany,52.50882,13.4507
+12,Starbucks,Hadenbergplatz 11,0,Berlin,Germany,52.50798,13.33364
+13,Starbucks,Kurfuerstendamm 231,0,Berlin,Germany,52.50403,13.33263
+14,Starbucks,Joachimsthaler Str 3,0,Berlin,Germany,52.50567,13.33177
+15,Starbucks,Kurfuerstendamm 224 10719 Berlin,0,Berlin,Germany,52.50336,13.32957
+16,Starbucks,Kurfuerstendamm 61,0,Berlin,Germany,52.50065,13.31289
+17,McDonalds,Alexanderplatz 1,10178,Berlin,Germany,52.52115,13.4129
+18,McDonalds,Europaplatz 1,10557,Berlin,Germany,52.52584,13.36913
+19,McDonalds,Hansastra�e 1,13053,Berlin,Germany,52.547,13.46849
+20,McDonalds,Hanne-Sobek-Platz 1,13357,Berlin,Germany,52.5488,13.38807
+21,McDonalds,Grunerstra�e 20,10179,Berlin,Germany,52.52024,13.4147
+22,McDonalds,Osloer Stra�e,13359,Berlin,Germany,52.55619,13.37856
+23,McDonalds,Alboinstra�e 4,12103,Berlin,Germany,52.46956,13.37135
+24,McDonalds,Weitlingstra�e 22,10317,Berlin,Germany,52.50941,13.49766
+25,McDonalds,Gro�beerenstra�e 22,12107,Berlin,Germany,52.43855,13.38779
+26,McDonalds,Wrangelstra�e 35,10997,Berlin,Germany,52.50088,13.43639
+27,McDonalds,Sonntagsstra�e 37,10245,Berlin,Germany,52.50412,13.46867
+28,McDonalds,Kurt-Schumacher-Damm 38,13405,Berlin,Germany,52.56077,13.32336
+29,McDonalds,Prenzlauer Promenade 45,13089,Berlin,Germany,52.56101,13.42859
+30,McDonalds,Wendenschlo�stra�e 2,12559,Berlin,Germany,52.413,13.6605
+31,McDonalds,Charlottenburger Chaussee 49,13597,Berlin,Germany,52.52702,13.23357
+32,McDonalds,Am Borsigturm 2,13507,Berlin,Germany,52.5838,13.28676
+33,McDonalds,Am Ostbahnhof 9,10243,Berlin,Germany,52.50949,13.43443
+34,McDonalds,Bitterfelder Stra�e 9,12681,Berlin,Germany,52.55359,13.54381
+35,McDonalds,Alt-Mahlsdorf 60,12623,Berlin,Germany,52.50416,13.62338
+36,McDonalds,Alt-Friedrichsfelde 61,10315,Berlin,Germany,52.50981,13.53173
+37,McDonalds,Werner-Vo�-Damm 62,12101,Berlin,Germany,52.47552,13.3643
+38,McDonalds,Karl-Marx-Stra�e 66,12043,Berlin,Germany,52.48228,13.43313
+39,McDonalds,Greifswalder Stra�e 80,10405,Berlin,Germany,52.53973,13.43739
+40,McDonalds,Klosterstra�e 3,13581,Berlin,Germany,52.53317,13.19843
+41,McDonalds,Saalestra�e 83,12055,Berlin,Germany,52.46976,13.44224
+42,McDonalds,Markstra�e 16,13409,Berlin,Germany,52.5606,13.36355
+43,McDonalds,Rudower Stra�e 100,12351,Berlin,Germany,52.43623,13.46501
+44,McDonalds,Frankfurter Allee 117,10247,Berlin,Germany,52.51364,13.47606
+45,McDonalds,Clayallee 121,14195,Berlin,Germany,52.45882,13.2743
+46,McDonalds,Friedrichstra�e 207,10969,Berlin,Germany,52.50729,13.39043
+47,McDonalds,Sonnenallee 254,12057,Berlin,Germany,52.47101,13.46115
+48,McDonalds,Heerstra�e 666,13591,Berlin,Germany,52.52834,13.12373
+49,McDonalds,Leipziger Platz 12-13,10117,Berlin,Germany,52.5108,13.38105
+50,McDonalds,Hermannplatz 2-3,10967,Berlin,Germany,52.48665,13.4247
+51,McDonalds,Kantstra�e 111a,10627,Berlin,Germany,52.50668,13.30636
+52,McDonalds,Osdorfer Str. 125a,12207,Berlin,Germany,52.41957,13.3125
+53,McDonalds,Friedrichstra�e 141-142,10117,Berlin,Germany,52.52017,13.38828
+54,McDonalds,Friedrichstra�e 141-142,10117,Berlin,Germany,52.52017,13.38828
+55,McDonalds,Marzahner Promenade 1a,12679,Berlin,Germany,52.5432,13.54314
+56,McDonalds,Adlergestell 289a,12489,Berlin,Germany,52.43178,13.54716
+57,McDonalds,Am Juliusturm 40-46,13599,Berlin,Germany,52.53697,13.22072
+58,McDonalds,Mecklenburgische Stra�e 65-68,14197,Berlin,Germany,52.47734,13.30752
+59,McDonalds,Hardenbergplatz 11,10623,Berlin,Germany,52.50798,13.33364
+60,McDonalds,Tauentzienstra�e 9-12,10789,Berlin,Germany,52.50395,13.33746
+61,McDonalds,Tamara-Danz-Stra�e 11,10243,Berlin,Germany,52.50553,13.44662
+62,Subway,Am Borsigturm 2,13507,Berlin,Germany,52.5838,13.28676
+63,Subway,Badstra�e 4,13357,Berlin,Germany,52.54965,13.3874
+64,Subway,Behrenstra�e 47,10117,Berlin,Germany,52.51573,13.39023
+65,Subway,Brunnenstrasse 53,13355,Berlin,Germany,52.53858,13.39621
+66,Subway,Chausseestr. 22/Invalidenstr.,10115,Berlin,Germany,52.53156,13.38766
+67,Subway,Europaplatz 1,10557,Berlin,Germany,52.52584,13.36913
+68,Subway,Frankfurter Allee 113,10365,Berlin,Germany,52.5137,13.47543
+69,Subway,Frankfurter Allee 41,10247,Berlin,Germany,52.51502,13.4627
+70,Subway,Grunerstra�e 20,10179,Berlin,Germany,52.52024,13.4147
+71,Subway,Hermannplatz,10967,Berlin,Germany,52.48715,13.42463
+72,Subway,Johannisthaler Chaussee 317,12351,Berlin,Germany,52.42992,13.45467
+73,Subway,Karl-Marx-Str. 66,12043,Berlin,Germany,52.48228,13.43313
+74,Subway,Kurf�rstendamm 180,10707,Berlin,Germany,52.50024,13.31232
+75,Subway,Leipziger Platz,10117,Berlin,Germany,52.50961,13.3774
+76,Subway,Marzahner Promenade 1A,12679,Berlin,Germany,52.5432,13.54314
+77,Subway,Nonnendammallee 119,13629,Berlin,Germany,52.53967,13.25006
+78,Subway,Ostbahnhof 5-7,10243,Berlin,Germany,52.51016,13.43279
+79,Subway,Potsdamer Stra�e 11,14163,Berlin,Germany,52.43313,13.24289
+80,Subway,Rudower Chaussee 12,12489,Berlin,Germany,52.43283,13.53588
+81,Subway,Schonhauser Allee 78,10439,Berlin,Germany,52.54944,13.41388
+82,Subway,Seegefelder Stra�e 1,13597,Berlin,Germany,52.53496,13.19854
+83,Subway,Spandauer Stra�e 3,10178,Berlin,Germany,52.52027,13.40432
+84,Subway,Teltower Damm 43-46,14167,Berlin,Germany,52.43004,13.25965
+85,Subway,Tempelhofer Damm 227,12099,Berlin,Germany,52.45465,13.38424
+86,Subway,Walther-Schreiber-Platz 1,12161,Berlin,Germany,52.4647,13.32815
+87,Subway,Wilmersdorfer Str. 46,10627,Berlin,Germany,52.50972,13.30573
+88,Subway,Zur Rinderauktionshalle 1,10247,Berlin,Germany,52.5231,13.46217

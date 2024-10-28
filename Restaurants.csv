@@ -1,4 +1,4 @@
-restaurant,street,zipCode,city,country
+restaurant,street,zipCode,city,country,lat,long
 Starbucks,Neue Promenade 3,00000,Berlin,Germany
 Starbucks,Dircksenstrasse 2,00000,Berlin,Germany
 Starbucks,Alexanderplatz 2,00000,Berlin,Germany
@@ -18,71 +18,71 @@ Starbucks,Kurfuerstendamm 224 10719 Berlin,00000,Berlin,Germany
 Starbucks,Kurfuerstendamm 61,00000,Berlin,Germany
 McDonalds,Alexanderplatz 1,10178,Berlin,Germany
 McDonalds,Europaplatz 1,10557,Berlin,Germany
-McDonalds,Hansastraße 1,13053,Berlin,Germany
+McDonalds,Hansastraï¿½e 1,13053,Berlin,Germany
 McDonalds,Hanne-Sobek-Platz 1,13357,Berlin,Germany
-McDonalds,Grunerstraße 20,10179,Berlin,Germany
-McDonalds,Osloer Straße,13359,Berlin,Germany
-McDonalds,Alboinstraße 4,12103,Berlin,Germany
-McDonalds,Weitlingstraße 22,10317,Berlin,Germany
-McDonalds,Großbeerenstraße 22,12107,Berlin,Germany
-McDonalds,Wrangelstraße 35,10997,Berlin,Germany
-McDonalds,Sonntagsstraße 37,10245,Berlin,Germany
+McDonalds,Grunerstraï¿½e 20,10179,Berlin,Germany
+McDonalds,Osloer Straï¿½e,13359,Berlin,Germany
+McDonalds,Alboinstraï¿½e 4,12103,Berlin,Germany
+McDonalds,Weitlingstraï¿½e 22,10317,Berlin,Germany
+McDonalds,Groï¿½beerenstraï¿½e 22,12107,Berlin,Germany
+McDonalds,Wrangelstraï¿½e 35,10997,Berlin,Germany
+McDonalds,Sonntagsstraï¿½e 37,10245,Berlin,Germany
 McDonalds,Kurt-Schumacher-Damm 38,13405,Berlin,Germany
 McDonalds,Prenzlauer Promenade 45,13089,Berlin,Germany
-McDonalds,Wendenschloßstraße 2,12559,Berlin,Germany
+McDonalds,Wendenschloï¿½straï¿½e 2,12559,Berlin,Germany
 McDonalds,Charlottenburger Chaussee 49,13597,Berlin,Germany
 McDonalds,Am Borsigturm 2,13507,Berlin,Germany
 McDonalds,Am Ostbahnhof 9,10243,Berlin,Germany
-McDonalds,Bitterfelder Straße 9,12681,Berlin,Germany
+McDonalds,Bitterfelder Straï¿½e 9,12681,Berlin,Germany
 McDonalds,Alt-Mahlsdorf 60,12623,Berlin,Germany
 McDonalds,Alt-Friedrichsfelde 61,10315,Berlin,Germany
-McDonalds,Werner-Voß-Damm 62,12101,Berlin,Germany
-McDonalds,Karl-Marx-Straße 66,12043,Berlin,Germany
-McDonalds,Greifswalder Straße 80,10405,Berlin,Germany
-McDonalds,Klosterstraße 3,13581,Berlin,Germany
-McDonalds,Saalestraße 83,12055,Berlin,Germany
-McDonalds,Markstraße 16,13409,Berlin,Germany
-McDonalds,Rudower Straße 100,12351,Berlin,Germany
+McDonalds,Werner-Voï¿½-Damm 62,12101,Berlin,Germany
+McDonalds,Karl-Marx-Straï¿½e 66,12043,Berlin,Germany
+McDonalds,Greifswalder Straï¿½e 80,10405,Berlin,Germany
+McDonalds,Klosterstraï¿½e 3,13581,Berlin,Germany
+McDonalds,Saalestraï¿½e 83,12055,Berlin,Germany
+McDonalds,Markstraï¿½e 16,13409,Berlin,Germany
+McDonalds,Rudower Straï¿½e 100,12351,Berlin,Germany
 McDonalds,Frankfurter Allee 117,10247,Berlin,Germany
 McDonalds,Clayallee 121,14195,Berlin,Germany
-McDonalds,Friedrichstraße 207,10969,Berlin,Germany
+McDonalds,Friedrichstraï¿½e 207,10969,Berlin,Germany
 McDonalds,Sonnenallee 254,12057,Berlin,Germany
-McDonalds,Heerstraße 666,13591,Berlin,Germany
+McDonalds,Heerstraï¿½e 666,13591,Berlin,Germany
 McDonalds,Leipziger Platz 12-13,10117,Berlin,Germany
 McDonalds,Hermannplatz 2-3,10967,Berlin,Germany
-McDonalds,Kantstraße 111a,10627,Berlin,Germany
+McDonalds,Kantstraï¿½e 111a,10627,Berlin,Germany
 McDonalds,Osdorfer Str. 125a,12207,Berlin,Germany
-McDonalds,Friedrichstraße 141-142,10117,Berlin,Germany
-McDonalds,Friedrichstraße 141-142,10117,Berlin,Germany
+McDonalds,Friedrichstraï¿½e 141-142,10117,Berlin,Germany
+McDonalds,Friedrichstraï¿½e 141-142,10117,Berlin,Germany
 McDonalds,Marzahner Promenade 1a,12679,Berlin,Germany
 McDonalds,Adlergestell 289a,12489,Berlin,Germany
 McDonalds,Am Juliusturm 40-46,13599,Berlin,Germany
-McDonalds,Mecklenburgische Straße 65-68,14197,Berlin,Germany
+McDonalds,Mecklenburgische Straï¿½e 65-68,14197,Berlin,Germany
 McDonalds,Hardenbergplatz 11,10623,Berlin,Germany
-McDonalds,Tauentzienstraße 9-12,10789,Berlin,Germany
-McDonalds,Tamara-Danz-Straße 11,10243,Berlin,Germany
+McDonalds,Tauentzienstraï¿½e 9-12,10789,Berlin,Germany
+McDonalds,Tamara-Danz-Straï¿½e 11,10243,Berlin,Germany
 Subway,Am Borsigturm 2,13507,Berlin,Germany
-Subway,Badstraße 4,13357,Berlin,Germany
-Subway,Behrenstraße 47,10117,Berlin,Germany
+Subway,Badstraï¿½e 4,13357,Berlin,Germany
+Subway,Behrenstraï¿½e 47,10117,Berlin,Germany
 Subway,Brunnenstrasse 53,13355,Berlin,Germany
 Subway,Chausseestr. 22/Invalidenstr.,10115,Berlin,Germany
 Subway,Europaplatz 1,10557,Berlin,Germany
 Subway,Frankfurter Allee 113,10365,Berlin,Germany
 Subway,Frankfurter Allee 41,10247,Berlin,Germany
-Subway,Grunerstraße 20,10179,Berlin,Germany
+Subway,Grunerstraï¿½e 20,10179,Berlin,Germany
 Subway,Hermannplatz,10967,Berlin,Germany
 Subway,Johannisthaler Chaussee 317,12351,Berlin,Germany
 Subway,Karl-Marx-Str. 66,12043,Berlin,Germany
-Subway,Kurfürstendamm 180,10707,Berlin,Germany
+Subway,Kurfï¿½rstendamm 180,10707,Berlin,Germany
 Subway,Leipziger Platz,10117,Berlin,Germany
 Subway,Marzahner Promenade 1A,12679,Berlin,Germany
 Subway,Nonnendammallee 119,13629,Berlin,Germany
 Subway,Ostbahnhof 5-7,10243,Berlin,Germany
-Subway,Potsdamer Straße 11,14163,Berlin,Germany
+Subway,Potsdamer Straï¿½e 11,14163,Berlin,Germany
 Subway,Rudower Chaussee 12,12489,Berlin,Germany
 Subway,Schonhauser Allee 78,10439,Berlin,Germany
-Subway,Seegefelder Straße 1,13597,Berlin,Germany
-Subway,Spandauer Straße 3,10178,Berlin,Germany
+Subway,Seegefelder Straï¿½e 1,13597,Berlin,Germany
+Subway,Spandauer Straï¿½e 3,10178,Berlin,Germany
 Subway,Teltower Damm 43-46,14167,Berlin,Germany
 Subway,Tempelhofer Damm 227,12099,Berlin,Germany
 Subway,Walther-Schreiber-Platz 1,12161,Berlin,Germany
